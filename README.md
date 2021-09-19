@@ -13,3 +13,5 @@
 you can clone this Project and do
 ``npm i``
 ``npm start``
+
+For view output you can scan QR-code in Expo-client (MobileApp)
