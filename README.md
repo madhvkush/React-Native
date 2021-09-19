@@ -7,3 +7,8 @@
  select template (example-blank)
 4. App is Ready. For running your App
  ``npm start``
+
+------------------OR-----------
+you can clone this Project and do
+``npm i``
+``npm start``
