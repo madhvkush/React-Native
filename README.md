@@ -9,6 +9,7 @@
  ``npm start``
 
 ------------------OR-----------
+
 you can clone this Project and do
 ``npm i``
 ``npm start``
