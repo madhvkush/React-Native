@@ -1,5 +1,4 @@
-# React-Native
-React Native setup (using Expo)
+# React Native Project setup (using Expo)
 1. Install node 12 + version - https://nodejs.org/download/release/v12.14.1/ (This version supports win-7)
 2. Install expo cli globally
  npm i -g expo-cli
